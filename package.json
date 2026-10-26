@@ -1,0 +1,22 @@
+{
+  "name": "opencode-chatgpt-quota",
+  "version": "0.1.0",
+  "description": "OpenCode plugin showing ChatGPT subscription quota windows in the TUI sidebar",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./tui": "./tui.tsx",
+    "./rpc": "./rpc.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martinf08/opencode-chatgpt-quota.git"
+  },
+  "keywords": [
+    "opencode",
+    "plugin",
+    "chatgpt",
+    "codex",
+    "quota"
+  ]
+}
