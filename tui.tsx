@@ -1,3 +1,5 @@
+/** @jsxImportSource @opentui/solid */
+
 import { Plugin } from "@opencode/plugin/tui"
 import { OpenAILimitsRPC, type Snapshot } from "./rpc"
 
